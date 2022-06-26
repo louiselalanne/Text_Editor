@@ -9,5 +9,8 @@ Creating an UI for mini version of notepad.<br>
   ● Learn how to write data into the files<br>
   ● Close the application<br>
 </p>
-<img src="https://user-images.githubusercontent.com/100588945/173256708-4db9d38c-8b50-4906-bed3-566b80496229.gif">
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100588945/173256708-4db9d38c-8b50-4906-bed3-566b80496229.gif" width="400">
+  <br>
+  Made with ♥️ by Louise Lalanne
+</p>
